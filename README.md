@@ -1,1 +1,3 @@
-# ops-exam
+a=10
+b=14
+c=a*b
